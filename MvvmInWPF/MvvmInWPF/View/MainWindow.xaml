@@ -7,7 +7,7 @@
         xmlns:viewModel="clr-namespace:MvvmInWPF.ViewModel"
         xmlns:model="clr-namespace:MvvmInWPF.Model"
         mc:Ignorable="d" WindowStartupLocation="CenterScreen"
-        Title="MainWindow" Height="100" Width="300">
+        Title="MainWindow" Height="400" Width="300">
     <Window.DataContext>
         <viewModel:MainWindowViewModel/>
     </Window.DataContext>
